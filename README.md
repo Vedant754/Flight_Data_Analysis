@@ -56,7 +56,7 @@ The dataset contains flight details like:
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/flight-data-analysis.git
+git clone https://github.com/<your-username>/Flight_Data_Analysis.git
 cd flight-data-analysis
 
 # Install dependencies
